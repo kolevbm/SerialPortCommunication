@@ -35,3 +35,4 @@ void loop() {
   Serial.print(height);
   Serial.println(" feet tall.");
   Serial.println("");
+}
